@@ -6,7 +6,7 @@ import Panel from '@/components/Panel.vue'
   <main>
     <Panel central>
       <h1>Swansea Computer Science Minecraft Server</h1>
-      <p>Members of the <b>Swansea CS Community</b> Discord server get access to our minecraft server.</p>
+      <p>Members of the <b>Swansea CS Community</b> Discord server get access to our Minecraft server.</p>
       <br>
       <p>We run a Vanilla 1.19.2 server that has chat connected to the <code>#minecraft</code> channel on the Discord server as well as a modded server (currently running the Vault Hunters modpack).</p>
     </Panel>
