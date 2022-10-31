@@ -12,6 +12,7 @@ import Panel from '@/components/Panel.vue'
       <RouterLink class="usefulLink" to="slc" target="_blank"><span>Student Finance England</span></RouterLink>
       <RouterLink class="usefulLink" to="canvas" target="_blank"><span>Canvas</span></RouterLink>
       <RouterLink class="usefulLink" to="outlook" target="_blank"><span>Outlook</span></RouterLink>
+      <a class="usefulLink" href="https://timetable.swansea.cymru" target="_blank"><span>Timetable</span></a>
     </Panel>
     <br><br><br>
     <Panel flexCenter>

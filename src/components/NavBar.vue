@@ -4,7 +4,7 @@
         <RouterLink draggable="false" class="namesake" to="/">Swansea Computer Science</RouterLink>
 
         <div class="rightLinks">
-            <a draggable="false" href="https://timetable.swansea.cymru">Timetable</a>
+            <a draggable="false" href="https://timetable.swansea.cymru" target="_blank">Timetable</a>
             <RouterLink draggable="false" to="/discord" target="_blank">Discord</RouterLink>
         </div>
     </nav>
